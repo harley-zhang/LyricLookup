@@ -1,9 +1,8 @@
 # LyricLookup
 
 <div>
-    <br>
-    <img src="https://img.shields.io/badge/spotify%20web%20api-%23191414.svg?style=for-the-badge&logo=spotify&logoColor=1db954"/>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/spotify%20web%20api-%23191414.svg?style=for-the-badge&logo=spotify&logoColor=1db954"/>
     <br><br>
 </div>
   
